@@ -1,0 +1,4 @@
+{
+    "carnivores": ["Velociraptor", "Tyranosaurus Rex", "Torvosaurus", "Spinosaurus", "Coelurosaur" ],
+    "herbivores": ["Triceratops", "Macrogryphosaurus", "Anklyosaurus", "Isisaurus"]
+}
